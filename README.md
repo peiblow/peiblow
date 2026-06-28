@@ -20,11 +20,11 @@ Instead of embedding agent logic and governance across prompts and application c
 
 ## Current Focus
 
-🚀 Synx Runtime (AVM)
-🚀 Verification Virtual Machine (VVM)
-🚀 Synx MCP
-🚀 Agent-as-Code (`.snx`)
-🚀 Runtime Governance
+🚀 Synx Runtime ([AVM](https://github.com/peiblow/synx-runtime)) <br />
+🚀 Verification Virtual Machine ([VVM](https://github.com/peiblow/synx-core)) <br />
+🚀 Synx MCP <br />
+🚀 Agent-as-Code ([`.snx`](https://github.com/peiblow/snx_contracts/tree/main/agent_contract)) <br />
+🚀 Agent Runtime ([AVM](https://github.com/peiblow/synx-avm)) <br />
 
 ---
 
