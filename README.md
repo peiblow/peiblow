@@ -6,7 +6,6 @@ Building **Synx** — an Agent Runtime for Production AI.
 
 ## What I'm building
 
-Building Synx — an Agent Runtime for Production
 Synx is an **Agent Runtime** that enables developers to build, execute and govern AI Agents as code.
 Instead of embedding agent logic and governance across prompts and application code, Synx provides a runtime where agents are:
 
