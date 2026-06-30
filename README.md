@@ -19,7 +19,7 @@ Instead of embedding agent logic and governance across prompts and application c
 
 ## Current Focus
 
-🚀 Synx Runtime ([AVM](https://github.com/peiblow/synx-runtime)) <br />
+🚀 Synx Runtime ([EEAPI](https://github.com/peiblow/synx-runtime)) <br />
 🚀 Verification Virtual Machine ([VVM](https://github.com/peiblow/synx-core)) <br />
 🚀 Synx MCP <br />
 🚀 Agent-as-Code ([`.snx`](https://github.com/peiblow/snx_contracts/tree/main/agent_contract)) <br />
